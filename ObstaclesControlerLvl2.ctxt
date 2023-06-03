@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ObstaclesControlerLvl2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ obstaclesControler\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ appears()
+comment3.params=
+comment3.target=void\ controlX()
+comment4.params=
+comment4.target=void\ countObstacles()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=void\ randomCoordenates()
+numComments=7
